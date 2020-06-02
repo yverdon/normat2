@@ -1,6 +1,6 @@
 # Projet QGIS de démo NORMAT-2 Vaud
 
-#### Ceci est une projet de démonstration sans aucune garantie ####
+#### Ceci est un projet de démonstration sans aucune garantie ####
 
 ## Configuration
 
